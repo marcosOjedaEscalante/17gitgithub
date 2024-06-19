@@ -1,0 +1,1 @@
+console.log("Tu primer día de trabajo");
